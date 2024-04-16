@@ -1,0 +1,16 @@
+
+ Bendri užduoties reikalavimai– pagal individualią užduotį parašyti programą, kuri turėtų:
+     -  Mažiausiai dvi klases (Pvz. 1 variante turėtų būti “Adresu knygutė” ir “Asmuo”)
+Konstruktorius be parametrų ir konstruktorius su parametrais
+Metodus objekto savybių keitimui (set) ir nuskaitymui (get)
+Duomenų nuskaitymą iš failo į objektų masyvą ir peržiūrą ekrane
+Suprogramuotą paieškos funkcijų perkrovimą
+Išsamų dialogą su vartotoju
+Klasėse duomenys turi buti inkapsuliuojami t.y. private arba protected, o funkcijos – public
+
+
+Parašyti programą „adresų knygutė“. Kiekvieną įrašą sudaro laukai: vardas, pavardė, miestas, telefono numeris. Turi būti realizuota:
+1. Nurodytame mieste gyvenančių asmenų kiekio paieška;
+2. Paieška nurodžius vardą ir pavardę;
+3. Paieška nurodžius vardą, pavardę ir miestą;
+4. Rikiavimas pagal pavardę ir miestą.
