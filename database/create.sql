@@ -80,6 +80,7 @@ CREATE TABLE IF NOT EXISTS UserProductReview
     user_id    INT,
     rating     INT NOT NULL,
     comment    TEXT,
+    created_at DATE,
     FOREIGN KEY (product_id) REFERENCES Product (product_id),
     FOREIGN KEY (user_id) REFERENCES User (user_id)
 );
